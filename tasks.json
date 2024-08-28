@@ -128,5 +128,8 @@
   "M2084": "abstract",
   "M2085": "rebase",
   "M2086": "account",
-  "M2087": "affiliate"
+  "M2087": "affiliate",
+  "M2088": "oversold",
+  "M2089": "honeypot",
+  "M2090": "gas"
 }
