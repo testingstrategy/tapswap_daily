@@ -148,5 +148,8 @@
   "M2106": "zksharding",
   "M2107": "honeyminer",
   "M2108": "accrue",
-  "M2109": "regulated"
+  "M2109": "regulated",
+  "M2110": "restaking",
+  "M2111": "retargeting",
+  "M2112": "market"
 }
