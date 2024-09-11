@@ -150,5 +150,13 @@
   "M2108": "accrue",
   "M2109": "regulated",
   "M2110": "restaking",
-  "M2111": "retargeting"
+  "M2111": "retargeting",
+  "M2112": "whitepaper",
+  "M2113": "rust",
+  "M2114": "scrypt",
+  "M2115": "security",
+  "M2116": "settlement",
+  "M2117": "shard",
+  "M2118": "tangle",
+  "M2119": "taproot"
 }
