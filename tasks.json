@@ -160,5 +160,10 @@
   "M2118": "tangle",
   "M2119": "taproot",
   "M2120": "shilling",
-  "M2121": "shitcoin"
+  "M2121": "shitcoin",
+  "M2122": "short",
+  "M2123": "sidechain",
+  "M2124": "signal",
+  "M2125": "slashing",
+  "M2126": "slippage"
 }
