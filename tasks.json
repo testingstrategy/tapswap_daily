@@ -170,5 +170,9 @@
   "M2128": "spac",
   "M2129": "gems",
   "M2130": "roi",
-  "M2131": "skynet"
+  "M2131": "skynet",
+  "M2132": "snapshot",
+  "M2133": "unconfirmed",
+  "M2134": "accountability",
+  "M2135": "acquisition"
 }
