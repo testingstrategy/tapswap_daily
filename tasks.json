@@ -174,5 +174,8 @@
   "M2132": "snapshot",
   "M2133": "unconfirmed",
   "M2134": "accountability",
-  "M2135": "acquisition"
+  "M2135": "acquisition",
+  "M2136": "spyware",
+  "M2137": "stablecoin",
+  "M2138": "staking"
 }
